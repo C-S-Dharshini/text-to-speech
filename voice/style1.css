@@ -1,0 +1,17 @@
+body{
+    background-color:purple;
+    font-family: 'Poppins',sans-serif;
+}
+#form{
+    width: 400px;
+    margin:30vh 20vh 0 65vh;
+    border-radius: 5px;
+    background-color: bisque;
+    padding: 30px;
+}
+.input{
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
